@@ -8,7 +8,7 @@ This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app w
 
 Deploy your own Gatsby project, along with Serverless Functions, with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/gatsby)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/gatsby) [![Greenkeeper badge](https://badges.greenkeeper.io/jeffersonswartz/gatsby-starter.svg)](https://greenkeeper.io/)
 
 _Live Example: https://gatsby.now-examples.now.sh_
 
